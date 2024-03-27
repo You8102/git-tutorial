@@ -1,3 +1,4 @@
 print("hello")
-int a = 1
-for 
+a = 1
+for i in range(10):
+    print(a)
